@@ -1,0 +1,4 @@
+# <realpath>;<replacement>;<patch>
+base;;base
+frFR;;frFR
+enUS;;enUS
